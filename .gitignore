@@ -1,0 +1,24 @@
+# Ignore compiled Lisp files
+*.fasl
+*.ufasl
+*.lib
+*.x86f
+*.sparcf
+*.dfsl
+*.pfsl
+*.d64fsl
+*.dx64fsl
+*.fx64fsl
+*.lx64fsl
+*.sx64fsl
+*.wx64fsl
+*.fas
+*.fasl
+*.dx32fsl
+*.fx32fsl
+*.lx32fsl
+*.sx32fsl
+*.wx32fsl
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
